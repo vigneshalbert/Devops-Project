@@ -41,7 +41,7 @@ Node Exporter → Prometheus → Grafana
 ## 🌐 Live Project
 
 - Application: https://devopsproject.online
-- Prometheus: http://13.205.142.11:9090
+- Prometheus: http://13.205.142.11:9090/targets
 - Grafana: http://13.205.142.11:3000
 
 ## 🧠 Key Learnings
