@@ -38,14 +38,6 @@ Node Exporter → Prometheus → Grafana
      - Visualizes metrics in dashboards
      - Endpoint: `http://13.205.142.11:3000`
 
-## 📸 Screenshots
-
-### Grafana Dashboard
-![Grafana](screenshots/grafana-dashboard.png)
-
-### Prometheus Targets
-![Prometheus](screenshots/prometheus-ui.png)
-
 ## 🌐 Live Project
 
 - Application: https://devopsproject.online
